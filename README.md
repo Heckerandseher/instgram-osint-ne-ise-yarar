@@ -1,4 +1,4 @@
-# Instagram OSINT Rehberi (Basit)
+# Instagram OSINT Rehberi
 
 Bu proje statik bir site ve basit bir Node HTTP sunucusu içerir. İletişim formu gönderilerini sunucu `mejas.txt` dosyasına ekler.
 
@@ -19,7 +19,7 @@ git init
 git add .
 git commit -m "init"
 # GitHub'da yeni repo oluşturduktan sonra:
-git remote add origin https://github.com/<kullanici>/<repo>.git
+git remote add origin https://github.com/Heckerandsehe/instgram-osint-ne-ise-yarar.git
 git branch -M main
 git push -u origin main
 ```
@@ -32,3 +32,4 @@ Notlar
 
 - `mejas.txt` dosyası `.gitignore` içinde; canlı sunucuda izinlerin yazılabilir olduğundan emin olun.
 - Özel domain mapping için Render/Railway arayüzünden domain ekleyip DNS kayıtlarını yönlendirin.
+
