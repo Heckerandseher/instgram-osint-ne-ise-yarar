@@ -1,0 +1,14 @@
+{
+  "name": "osint-ne-ise-yarar",
+  "version": "1.0.0",
+  "description": "Basit Instagram OSINT rehberi - mesaj kaydı için Node sunucu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "",
+  "license": "MIT"
+}
